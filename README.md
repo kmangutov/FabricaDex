@@ -13,3 +13,12 @@ npx hardhat node
 node scripts/sample-script.js
 npx hardhat help
 ```
+
+
+---
+
+Future resources:
+- Naive dex with openzeppelin libs: https://ethernaut.openzeppelin.com/level/0x0b0276F85EF92432fBd6529E169D9dE4aD337b1F
+- Add frontend example: https://github.com/nomiclabs/hardhat-hackathon-boilerplate
+- UniswapV2 dex: https://github.com/Uniswap/v2-core/blob/master/contracts/UniswapV2Pair.sol
+
